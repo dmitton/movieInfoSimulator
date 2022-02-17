@@ -1,0 +1,73 @@
+#main-function{
+  height: 600px;
+  background-color: #383838;
+}
+
+label{
+  color: white;
+  font-size:30px;
+  font-weight: bold;
+  padding-bottom: 25px;
+}
+
+form{
+  padding-left: 450px;
+  padding-top: 200px;
+
+}
+
+
+.navbar .navbar-brand {
+    color: #fff;
+    font-size: 50px;
+}
+
+#searchResults{
+  height:1500px;
+  background-color: #383838;
+}
+
+p{
+  color:white;
+  font-weight: bold;
+}
+
+h2{
+  color:white;
+  font-weight: bold;
+  font-size: 60px;
+}
+
+ul{
+  color:white;
+  font-weight: bold;
+}
+
+li{
+  color:white;
+  font-weight: bold;
+}
+
+#searchResults .moviePoster{
+  width: 500px;
+  float:left;
+}
+
+#searchResults .movieInfo{
+  width: 570px;
+  float: left;
+  padding-left:200px;
+}
+
+img{
+  width:550px;
+  height:664px;
+  padding-left: 100px;
+  border-color: black
+}
+
+p.plot-details{
+  font-size: 25px;
+  font-weight: bold;
+  text-decoration: underline;
+}
